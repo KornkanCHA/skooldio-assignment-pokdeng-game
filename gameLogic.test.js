@@ -3,7 +3,7 @@ const { generateDeck, shuffleDeck, calculatePoint, findingWinner } = require("./
 test("generate 52 cards", () => {
     expect(generateDeck().length).toBe(52);
 });
-
+ 
 test("shuffled deck must not be the same as original deck.", () => {
     const originalDeck = generateDeck();
     const shuffledDeck = shuffleDeck([...originalDeck]);
