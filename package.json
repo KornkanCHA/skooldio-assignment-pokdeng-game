@@ -1,0 +1,18 @@
+{
+  "name": "skooldio-assignment-pokdeng-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
