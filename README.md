@@ -43,4 +43,4 @@ You finished with 10 chips.
 Bye!
 ```
 ## Future Task
-If I have more time, I will write more detailed test cases.
+If I have more time, I will write more detail test cases.
